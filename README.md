@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasir Arafat</h1>
 <h3 align="center">A passionate web developer . Enthusiastic learner.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/7fe7a756-603a-4655-bded-b7d4d2812a1c](https://www.google.com/url?sa=i&url=https%3A%2F%2Futpaqp.edu.pe%2Fexplore%2Ffree-trial-version-gif&psig=AOvVaw0bBt2s5EnlPEDlqU1Mjm2L&ust=1742583992467000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCMv72tmYwDFQAAAAAdAAAAABAE
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a8c9ab0d-8060-4f55-a212-abc5006b77c3
+
 ">
 - 🌱 I’m currently learning **Vue.js**
 
