@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yasir Arafat</h1>
 <h3 align="center">A passionate web developer . Enthusiastic learner.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a8c9ab0d-8060-4f55-a212-abc5006b77c3
-
-/">
+<img align="right" width="400" img="https://github.com/user-attachments/assets/f5328cb8-793c-4187-85c1-9e7e48d91987
+"/>
 - 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **HTML ,CSS , Php ,LARAVEL , GIT , GITHUB**
