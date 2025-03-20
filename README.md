@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a8c9ab0d-8060-4f55-a212-abc5006b77c3
 
-">
+/">
 - 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **HTML ,CSS , Php ,LARAVEL , GIT , GITHUB**
